@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "North-West University, Department of Biology"
-date: 2018-02-01
+date: 2018-02-01 -2018-10-31
 location: "Mafikeng, South Africa"
 ---
 
