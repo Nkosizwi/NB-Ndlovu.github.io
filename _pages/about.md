@@ -29,3 +29,21 @@ She has presented her work at:
 
 Her technical skills include remote sensing, wetland monitoring, multispectral image processing, land-use modeling, geostatistics (e.g., kriging, interpolation), and programming in Python and JavaScript. She is passionate about leveraging cloud-based geospatial platforms to drive climate resilience, biodiversity conservation, and evidence-based environmental management in southern Africa.
 
+### Skills & Expertise
+
+**Geospatial & Environmental Analysis**  
+Spatial Analysis, Geoinformation, Geospatial Science, Earth Observation, Environmental Monitoring, Climate Change, Physical Geography, Monitoring, Wetlands, Environmental Information
+
+**Remote Sensing & Image Processing**  
+Satellite Image Analysis, Multispectral Satellite Imagery, Satellite Image Processing, Image Analysis, ERDAS Imaging, Geovisualization, Geomorphological Mapping
+
+**GIS & Mapping**  
+Mapping, Geostatistical Analysis, Land Use Modelling, Geomatics, Kriging, Interpolation, Geovisualization, KML, Google Earth Pro
+
+**Software & Tools**  
+Google Earth Engine (GEE), ArcGIS Pro, QGIS, TIMESAT, Google Earth Pro, ERDAS Imagine
+
+**Programming & Scripting**  
+Python, JavaScript, Cloud Computing (GEE)
+
+
