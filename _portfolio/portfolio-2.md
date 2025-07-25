@@ -48,7 +48,7 @@ The **Post-Matric Information System** is a web-based platform designed to centr
 - Identified training requirements and scheduled sessions.  
 - Prepared training materials and conducted hands-on guidance.
 - 
-### 💡 Project Impact
+###  Project Impact
 
 This project aimed to empower recent high school graduates by giving them a centralized, easy-to-use platform to explore their post-matric options. The ultimate goal was to reduce the gap between matriculation and meaningful opportunity through digital access to relevant information.
 
