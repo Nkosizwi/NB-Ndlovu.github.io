@@ -29,4 +29,4 @@ The platform showcased services, shared the salon’s mission, provided contact 
 
 This website was created as part of my System development learnership. The client is no longer operating. No branding, client names, or identifying materials are shared beyond the salon's original public-facing description. This entry exists solely to demonstrate my technical and creative web development skills.
 
-[Kids Spot Hair Salon Screenshot](/images/kidsspot_preview.png)
+[Kids Spot Hair Salon Screenshot](images/kidsspot_preview.png)
