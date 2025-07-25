@@ -7,7 +7,7 @@ collection: portfolio
 This was a freelance project for **Kids Spot Hair Salon**, a boutique children's grooming business, that focused on natural hair care and child-friendly experiences. The website was designed to be colorful, welcoming, and easy to navigate for both parents and children.
 
 
-### 💼 Project Summary
+### Project Summary
 
 The salon offered hair grooming services for children of all hair types. The salon emphasized a tear-free, inclusive experience, with a focus on patience, comfort, and promoting natural hair pride.
 
@@ -15,7 +15,7 @@ The platform showcased services, shared the salon’s mission, provided contact 
 
 
 
-### 🔧 My Role & Contributions
+### My Role & Contributions
 
 **Website Developer**  
 - Designed and built the site using **custom HTML, CSS**, and **PHP** for backend functionality.  
