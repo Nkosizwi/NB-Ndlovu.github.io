@@ -3,7 +3,6 @@ title: "Business Website Project"
 excerpt: "Designed a responsive business website using HTML, CSS, and PHP."
 collection: portfolio
 ---
-[Kids Spot Hair Salon Screenshot](/images/kidsspot_preview.png)
 
 This was a freelance project for **Kids Spot Hair Salon**, a boutique children's grooming business, that focused on natural hair care and child-friendly experiences. The website was designed to be colorful, welcoming, and easy to navigate for both parents and children.
 
@@ -29,3 +28,5 @@ The platform showcased services, shared the salon’s mission, provided contact 
 ### ⚠️ Disclaimer
 
 This website was created as part of my System development learnership. The client is no longer operating. No branding, client names, or identifying materials are shared beyond the salon's original public-facing description. This entry exists solely to demonstrate my technical and creative web development skills.
+
+[Kids Spot Hair Salon Screenshot](/images/kidsspot_preview.png)
