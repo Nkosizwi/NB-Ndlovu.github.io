@@ -26,8 +26,6 @@ main:
   - title: "CV"
     url: /cv/
     
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: Professional Development
-   url: /professional-development/
+  - title: "Professional Development"
+    url: /professional-development/
+
