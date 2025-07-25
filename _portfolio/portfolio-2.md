@@ -24,7 +24,7 @@ The **Post-Matric Information System** is a web-based platform designed to centr
 - Reduce information gaps contributing to unemployment and crime
 - Encourage early planning and exploration of educational or career paths
 
-- ## My Role and Contributions
+## My Role and Contributions
 
 #### 📌 Project Manager  
 - Ensured the project was delivered on time, within budget, and met quality expectations.  
