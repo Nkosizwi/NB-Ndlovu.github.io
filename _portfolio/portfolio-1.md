@@ -2,7 +2,7 @@
 title: "Mapping of Soil Erosion in the Upper Molopo River Catchment Using GIS and Remote Sensing"
 collection: portfolio
 permalink: /portfolio/soil-erosion-gis-rusle
-date: 2021-12-01
+date: 2019-11-30
 excerpt: "Honours research project applying RUSLE in a GIS and remote sensing framework to assess erosion risk in the Upper Molopo River Catchment."
 ---
 
