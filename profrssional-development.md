@@ -1,5 +1,4 @@
 ---
-permalink: /professional-development/
 title: "Professional Development"
 author_profile: true
 ---
