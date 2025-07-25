@@ -6,7 +6,7 @@ date: 2019-11-30
 excerpt: "Honours research project applying RUSLE in a GIS and remote sensing framework to assess erosion risk in the Upper Molopo River Catchment."
 ---
 
-### 🗺️ Mapping of Soil Erosion in the Upper Molopo River Catchment Using GIS and Remote Sensing  
+### Mapping of Soil Erosion in the Upper Molopo River Catchment Using GIS and Remote Sensing  
 **BSc Honours Research Project**  
 **University of Pretoria**
 
@@ -14,7 +14,7 @@ This project focused on estimating and mapping soil erosion risk in the Upper Mo
 
 ---
 
-#### 🔍 Methods and Tools Used
+#### Methods and Tools Used
 
 - **Rainfall Erosivity (R)**: Calculated using rainfall records from 2014–2018 based on the Wischmeier and Smith (1978) equation.
 - **Soil Erodibility (K)**: Estimated from ISRIC Soil Info data at 24 GPS-logged sites. Interpolated using Inverse Distance Weighting (IDW) in ArcGIS.
@@ -25,7 +25,7 @@ This project focused on estimating and mapping soil erosion risk in the Upper Mo
 
 ---
 
-#### 🧰 Skills Applied
+#### Skills Applied
 
 - Spatial analysis  
 - GIS modelling (ArcGIS 10.6, ERDAS Imagine)  
@@ -38,6 +38,6 @@ This project focused on estimating and mapping soil erosion risk in the Upper Mo
 
 ---
 
-#### 🌱 Impact
+#### Impact
 
 This project produced a spatially explicit map of soil erosion risk, identifying high-risk zones within the catchment. The outputs provide a foundation for future land use planning and conservation, especially in data-scarce regions. The study also demonstrates the potential of remote sensing and open-access data to conduct robust environmental assessments in under-resourced areas.
