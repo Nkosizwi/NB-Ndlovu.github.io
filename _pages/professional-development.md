@@ -10,6 +10,6 @@ This section highlights **certificates, workshops, short courses**, and other **
 
 ### Quick links:
 
-- [Workshops & Trainings](/professional development/workshops/)
-- [Certificates](/professional development/certificates/)
-- [Recognitions & Awards](/professional development/recognitions/)
+- [Workshops & Trainings](/professional-development/workshops/)
+- [Certificates](/professional-development/certificates/)
+- [Recognitions & Awards](/professional-development/recognitions/)
