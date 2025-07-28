@@ -190,6 +190,10 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  professional_development:
+    output: true
+    permalink: /professional-development/:path/
+
 
 
 # These settings control how pages and collections are included in the site
